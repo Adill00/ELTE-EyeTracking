@@ -1,0 +1,1 @@
+{"version":3,"file":"CalibrationManager.d.ts","sourceRoot":"","sources":["../../src/core/CalibrationManager.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,UAAU,EAAE,MAAM,0BAA0B,CAAC;AAC3D,OAAO,KAAK,EAAE,eAAe,EAAoB,MAAM,aAAa,CAAC;AA6ErE,qBAAa,kBAAkB;IAC7B,OAAO,CAAC,OAAO,CAAiC;IAEhD,OAAO,CAAC,YAAY;IAOd,GAAG,CAAC,MAAM,EAAE,UAAU,GAAG,OAAO,CAAC,eAAe,CAAC;CAyExD"}

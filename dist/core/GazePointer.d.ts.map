@@ -1,0 +1,1 @@
+{"version":3,"file":"GazePointer.d.ts","sourceRoot":"","sources":["../../src/core/GazePointer.ts"],"names":[],"mappings":"AAgBA,qBAAa,WAAW;IACtB,OAAO,CAAC,EAAE,CAAiB;IAC3B,OAAO,CAAC,OAAO,CAAmB;;IAYlC,MAAM,CAAC,CAAC,EAAE,MAAM,EAAE,CAAC,EAAE,MAAM,GAAG,IAAI;IAKlC,UAAU,CAAC,OAAO,EAAE,OAAO,GAAG,IAAI;CAGnC"}
